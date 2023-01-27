@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+// ignore_for_file: file_names
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:riverpod_coursecode6/enums.dart';
 import 'package:riverpod_coursecode6/filmModel.dart';
